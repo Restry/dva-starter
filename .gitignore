@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -34,3 +35,10 @@ dist
 
 # Mac files
 .DS_Store
+=======
+dist
+node_modules
+.DS_Store
+tmp
+npm-debug.log
+>>>>>>> 9ea80feb982a841a9aa552aa9d5aa634fbd7a681
